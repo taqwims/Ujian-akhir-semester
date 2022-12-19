@@ -5,8 +5,9 @@
 <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-
+Transpose array pada c++ merupakan teknik untuk menukar kolom menjadi baris dan sebaliknya baris menjadi kolom, hal ini digunakan untuk memepermudah dan mempercepat edit data.
 ## Source Code
+```
 #include <iostream>
 using namespace std;
 
@@ -63,6 +64,7 @@ void identitas(){
 	cout<<"==============================================\n\n";
 }
 
+```
 ## Output
 
 ![Screenshot_20221219_142551](https://user-images.githubusercontent.com/121000503/208383095-44b673b4-88fe-4884-9b11-580a10cefb21.png)
