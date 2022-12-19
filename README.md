@@ -64,4 +64,5 @@ void identitas(){
 }
 
 ## Output
-![Uploading Screenshot_20221219_142551.png…]()
+
+![Screenshot_20221219_142551](https://user-images.githubusercontent.com/121000503/208383095-44b673b4-88fe-4884-9b11-580a10cefb21.png)
