@@ -1,7 +1,7 @@
 # Ujian Akhir Semester 
-<br>Mata Kuliah 	:
-<br> Nama		:
-<br>NIM		:	
+<br>Mata Kuliah 	: Dasar Pemograman 
+<br> Nama		: Muhammad Ahsani Taqwim
+<br>NIM		: 1227050083
 <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
